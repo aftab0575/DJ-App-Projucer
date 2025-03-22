@@ -1,7 +1,7 @@
 # Otodecks - Advanced DJ Application
 
 ## Project Overview
-Otodecks is a DJ application developed as part of a course assignment. This project extends the basic functionality by introducing a custom deck control component and a music library component. The new features enhance the usability of the application, allowing users to manipulate audio tracks creatively and manage a music library efficiently.
+Otodecks is a DJ application developed for a fiver client. This project extends the basic functionality by introducing a custom deck control component and a music library component. The new features enhance the usability of the application, allowing users to manipulate audio tracks creatively and manage a music library efficiently.
 
 ## Features
 
